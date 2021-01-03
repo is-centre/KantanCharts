@@ -1,7 +1,7 @@
 KantanCharts
 -------------
 
-#### Feature update: Per Point Color for Cartesian and Time Series Charts for UE 4.25+
+#### Feature update: Per Point Color for Cartesian and Time Series Charts for UE 4.23-4.24
 
 This branch features a mod for KantanCharts that allows per-point color to be set in blueprints when adding the data point to the chart. What this gives you is the ability to do something like this (in the animation, every time the spacebar is pressed, the color changes from the default red color to blue; on the left there is an example of a time series chart with markers, on the right there is a cartesian plot drawn with line segments, both points and line segments work the same for both types of charts):
 
